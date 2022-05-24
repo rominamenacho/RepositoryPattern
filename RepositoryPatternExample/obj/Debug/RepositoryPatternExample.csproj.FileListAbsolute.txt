@@ -1,0 +1,11 @@
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\obj\Debug\RepositoryPatternExample.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\obj\Debug\RepositoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\RepositoryPatternExample.exe.config
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\RepositoryPatternExample.exe
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\RepositoryPatternExample.pdb
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\obj\Debug\RepositoryPatternExample.csproj.CopyComplete
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\obj\Debug\RepositoryPatternExample.exe
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\obj\Debug\RepositoryPatternExample.pdb
+C:\Users\54926\source\repos\RepositoryPatternExample\RepositoryPatternExample\bin\Debug\Categories\Repository\categories.json

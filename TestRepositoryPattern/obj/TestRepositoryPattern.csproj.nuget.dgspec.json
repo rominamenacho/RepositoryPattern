@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\TestRepositoryPattern\\TestRepositoryPattern.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\RepositoryPatternExample\\RepositoryPatternExample.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\RepositoryPatternExample\\RepositoryPatternExample.csproj",
+        "projectName": "RepositoryPatternExample",
+        "projectPath": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\RepositoryPatternExample\\RepositoryPatternExample.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\TestRepositoryPattern\\TestRepositoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\TestRepositoryPattern\\TestRepositoryPattern.csproj",
+        "projectName": "TestRepositoryPattern",
+        "projectPath": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\TestRepositoryPattern\\TestRepositoryPattern.csproj",
+        "packagesPath": "C:\\Users\\54926\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\TestRepositoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\54926\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\RepositoryPatternExample\\RepositoryPatternExample.csproj": {
+                "projectPath": "C:\\Users\\54926\\source\\repos\\RepositoryPatternExample\\RepositoryPatternExample\\RepositoryPatternExample.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

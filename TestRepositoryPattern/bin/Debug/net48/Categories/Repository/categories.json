@@ -1,0 +1,40 @@
+[
+    {
+      "Name": "objects",
+      "Words": [ "pencil", "house", "book", "tv", "dinamo", "cup", "t-shirt" ]
+    },
+    {
+      "Name": "money",
+      "Words": [ "dolar", "euro", "peso arg", "libra" ]
+    },
+    {
+      "Name": "profesion",
+      "Words": [ "doctor", "witress", "bomberman", "police", "programmer" ]
+    },
+    {
+      "Name": "countries",
+      "Words": [ "argentina", "estados unidos", "chile", "colombia", "peru", "uruguay", "paraguay", "brasil", "dinamarca", "finlandia", "guatemala", "groenlandia" ]
+    },
+    {
+      "Name": "names",
+      "Words": [ "john", "peter", "ana", "bety", "charles", "daniel", "edgard" ]
+    },
+    {
+      "Name": "colours",
+      "Words": [ "red", "green", "yellow", "orange", "blue", "white", "black", "grey", "purpule", "cyan" ]
+    },
+    {
+      "Name": "vegetables",
+      "Words": [ "tomato", "potato", "carrot", "banana", "mushroom", "onion", "garlic" ]
+    },
+    {
+      "Name": "animals",
+      "Words": [ "dog", "cat", "tiger", "rabbit", "bird", "elephant", "turtule" ]
+    },
+    {
+      "Name": "cities",
+      "Words": [ "mendoza", "cordoba", "cartagena", "buenos aires", "zurich", "tokio", "madrid", "london", "new york", "sydney", "paris", "moscow", "mumbai" ]
+    }
+  ]
+
+ 
